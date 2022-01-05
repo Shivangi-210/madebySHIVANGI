@@ -1,0 +1,9 @@
+body{
+    background-image:url("Fire smth its a bg tho.png");
+    background-position: fixed;
+    background-size: cover;
+}
+h1,h2{
+    text-decoration: wavy;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
